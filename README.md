@@ -2,7 +2,7 @@
 
 ![App Logo](https://example.com/app-logo.png)
 
-Welcome to the Railway Management System! This web-based application is designed to streamline railway operations and provide a convenient platform for managing train schedules, delays, cancellations, and ticket reservations. Built using React, Material UI, Firebase, and Node.js, the Railway Management System offers a comprehensive solution for railway administrators and passengers alike.
+Welcome to the Railway Management System! This web-based application is designed to streamline railway operations and provide a convenient platform for managing train schedules, delays, cancellations, and ticket reservations. Built using React, Material UI, Firebase, and Node.js, the Railway Management System offers a comprehensive solution for railway administrators.
 
 ## Features
 

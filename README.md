@@ -1,108 +1,70 @@
-# KDU-GPSD-Web
+# Railway Management System
 
-## [Material Kit - React](https://material-kit-react.devias.io/)
+![App Logo](https://example.com/app-logo.png)
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+Welcome to the Railway Management System! This web-based application is designed to streamline railway operations and provide a convenient platform for managing train schedules, delays, cancellations, and ticket reservations. Built using React, Material UI, Firebase, and Node.js, the Railway Management System offers a comprehensive solution for railway administrators and passengers alike.
 
-> Free React Admin Dashboard made with [Material UI's](https://material-ui.com/?ref=devias-io) components, [React](https://reactjs.org/?ref=devias-io) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=devias-io) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on [https://devias.io/](https://devias.io/)
+## Features
 
-## Upgrade to PRO Version
+- **Login:** Administrators can securely log in to the system using their credentials.
+- **Dashboard:** A user-friendly dashboard provides an overview of key information, such as train schedules, delays, and reservations.
+- **Train Schedule by Station:** Users can view train schedules for a specific station, including departure and arrival times for different trains.
+- **Train Schedule by Destination:** Users can search for train schedules based on their desired destination, making it easy to plan their journeys.
+- **Train Delays:** The system provides real-time updates on train delays, allowing administrators to manage and communicate delays effectively.
+- **Train Cancellations:** Users are informed about train cancellations promptly, enabling them to make alternate travel arrangements.
+- **Ticket Reservation:** Passengers can reserve tickets for their desired train and route, streamlining the booking process.
 
-We also have a pro version of this product which bundles even more pages and components if you want to save more time and design efforts :)
+## Technologies Used
 
+The Railway Management System utilizes the following technologies:
 
-| Free Version (this one)              | [Material Kit Pro - React](https://material-ui.com/store/items/devias-kit-pro/) |
-| ------------------------ | :----------------------------------------------------------- |
-| **7** Demo Pages         | **32** demo pages
-| -                        | ✔ Dark & light mode
-| -                        | ✔ Authentication with *Amplify**, **Auth0** and **Firebase**  
-| -                        | ✔ TypeScript version                                                                                   
-| -                        | ✔ Design files (sketch & figma) - for extended license       
-| -                        | ✔ Complete users flows                                       
+- **React:** A popular JavaScript library for building user interfaces, providing a robust and efficient framework for developing dynamic web applications.
+- **Material UI:** A UI component library that offers pre-built, customizable components following the Material Design guidelines, enhancing the visual appeal and user experience.
+- **Firebase:** A mobile and web application development platform that provides backend services and tools, including authentication and real-time database functionality.
+- **Node.js:** A JavaScript runtime environment that allows the execution of server-side JavaScript, facilitating the development of scalable and efficient web applications.
 
-## Demo
+## Getting Started
 
-- [Dashboard Page](https://material-kit-react.devias.io/app/dashboard)
-- [Users Page](https://material-kit-react.devias.io/app/customers)
-- [Products Page](https://material-kit-react.devias.io/app/products)
-- [Register Page](https://material-kit-react.devias.io/register)
-- [Login Page](https://material-kit-react.devias.io/login)
-- [Account Page](https://material-kit-react.devias.io/app/account)
-- [Settings Page](https://material-kit-react.devias.io/app/settings)
+To run the Railway Management System locally on your machine, follow these steps:
 
+1. **Prerequisites:** Ensure you have Node.js installed on your machine. If not, you can download it from the official Node.js website and follow the installation guide.
 
-## Quick start
-
-- [Download from Github](https://github.com/devias-io/material-kit-react/archive/master.zip) or [Download from Devias](https://devias.io/products/material-kit-react) or clone the repo: `git clone https://github.com/devias-io/material-kit-react.git`
-
-- Make sure your NodeJS and npm versions are up to date for `React 17`
-
-- Install dependencies: `npm install` or `yarn`
-
-- Start the server: `npm run start` or `yarn start`
-
-- Views are on: `localhost:3000`
-
-## 🖌 Design Files
-
-👉[Download Sketch file](https://s3.eu-west-2.amazonaws.com/devias/products/react-material-dashboard/react-material-dashboard-free.sketch)
-
-👉[Download Figma file](https://devias.s3.eu-west-2.amazonaws.com/products/react-material-dashboard/react-material-dashboard-free.fig)
-
-## File Structure
-
-Within the download you'll find the following directories and files:
-
+2. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 ```
-material-react-dashboard
-
-├── .eslintrc
-├── .gitignore
-├── .prettierrc
-├── CHANGELOG.md
-├── jsconfig.json
-├── LICENSE.md
-├── package.json
-├── README.md
-├── public
-├── docs
-└── src
-	├── assets
-	├── common
-	├── components
-	├── helpers
-	├── icons
-	├── layouts
-	├── theme
-	├── views
-	│	├── Account
-	│	├── Dashboard
-	│	├── Icons
-	│	├── NotFound
-	│	├── ProductList
-	│	├── Settings
-	│	├── SignIn
-	│	├── SignUp
-	│	├── Typography
-	│	└── UserList
-	├── App.jsx
-	├── index.jsx
-	└── Routes.jsx
+git clone https://github.com/lahiru1115/Railway-Management-System-Web.git
 ```
 
-## Resources
+3. **Navigate to the Directory:** Enter the app directory:
+```
+cd Railway-Management-System-Web
+```
 
-- More freebies like this one: <https://devias.io>
+4. **Install Dependencies:** Run the following command to install the required dependencies:
+```
+npm install
+```
 
-## Reporting Issues:
+5. **Configure Firebase:** Follow the Firebase setup guide to create a Firebase project and add the necessary configuration files to the app.
 
-- [Github Issues Page](https://github.com/devias-io/react-material-dashboard/issues?ref=devias-io)
+6. **Start the Application:** Use the following command to start the application:
+```
+npm start
+```
 
-## License
+## Screenshots
 
-- Licensed under MIT (https://github.com/devias-io/react-material-dashboard/blob/master/LICENSE.md)
+![Screenshot 1](https://example.com/screenshot-1.png)
+![Screenshot 2](https://example.com/screenshot-2.png)
+![Screenshot 3](https://example.com/screenshot-3.png)
 
-## Contact Us
+## Contributing
 
-- Email Us: support@deviasio.zendesk.com
-- [Follow us on Instagram](https://www.instagram.com/deviasio/)
+Contributions are welcome! If you encounter any issues with the app or have new feature suggestions, please open an issue or submit a pull request.
+
+## Acknowledgments
+
+We would like to express our gratitude to all developers and contributors who have dedicated their time and effort to building and improving this system.
+
+For any questions or support, please contact us at [lahirudissanayake15@gmail.com](mailto:lahirudissanayake15@gmail.com).
+
+Let's revolutionize railway management together! Happy coding!

@@ -60,11 +60,3 @@ npm start
 ## Contributing
 
 Contributions are welcome! If you encounter any issues with the app or have new feature suggestions, please open an issue or submit a pull request.
-
-## Acknowledgments
-
-We would like to express our gratitude to all developers and contributors who have dedicated their time and effort to building and improving this system.
-
-For any questions or support, please contact us at [lahirudissanayake15@gmail.com](mailto:lahirudissanayake15@gmail.com).
-
-Let's revolutionize railway management together! Happy coding!

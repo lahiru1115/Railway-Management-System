@@ -31,12 +31,12 @@ To run the Railway Management System locally on your machine, follow these steps
 
 2. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 ```
-git clone https://github.com/lahiru1115/Railway-Management-System-Web.git
+git clone https://github.com/lahiru1115/Railway-Management-System.git
 ```
 
 3. **Navigate to the Directory:** Enter the app directory:
 ```
-cd Railway-Management-System-Web
+cd Railway-Management-System
 ```
 
 4. **Install Dependencies:** Run the following command to install the required dependencies:

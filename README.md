@@ -1,6 +1,6 @@
 # Railway Management System
 
-![App Logo](https://example.com/app-logo.png)
+![Cover Photo](public/static/screenshots/Header.png)
 
 Welcome to the Railway Management System! This web-based application is designed to streamline railway operations and provide a convenient platform for managing train schedules, delays, cancellations, and ticket reservations. Built using React, Material UI, Firebase, and Node.js, the Railway Management System offers a comprehensive solution for railway administrators.
 
@@ -53,9 +53,56 @@ npm start
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot-1.png)
-![Screenshot 2](https://example.com/screenshot-2.png)
-![Screenshot 3](https://example.com/screenshot-3.png)
+<table>
+  <tr>
+    <td>
+      <img src="public/static/screenshots/Screenshot-1.png" alt="Screenshot 1">
+    </td>
+    <td>
+      <img src="public/static/screenshots/Screenshot-2.png" alt="Screenshot 2">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="public/static/screenshots/Screenshot-3.png" alt="Screenshot 3">
+    </td>
+    <td>
+      <img src="public/static/screenshots/Screenshot-4.png" alt="Screenshot 4">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="public/static/screenshots/Screenshot-5.png" alt="Screenshot 5">
+    </td>
+    <td>
+      <img src="public/static/screenshots/Screenshot-6.png" alt="Screenshot 6">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="public/static/screenshots/Screenshot-7.png" alt="Screenshot 7">
+    </td>
+    <td>
+      <img src="public/static/screenshots/Screenshot-8.png" alt="Screenshot 8">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="public/static/screenshots/Screenshot-9.png" alt="Screenshot 9">
+    </td>
+    <td>
+      <img src="public/static/screenshots/Screenshot-10.png" alt="Screenshot 10">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="public/static/screenshots/Screenshot-11.png" alt="Screenshot 11">
+    </td>
+    <td>
+      <img src="public/static/screenshots/Screenshot-12.png" alt="Screenshot 12">
+    </td>
+  </tr>
+</table>
 
 ## Contributing
 

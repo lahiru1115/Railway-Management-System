@@ -16,8 +16,6 @@ Welcome to the Railway Management System! This web-based application is designed
 
 ## Technologies Used
 
-The Railway Management System utilizes the following technologies:
-
 - **React:** A popular JavaScript library for building user interfaces, providing a robust and efficient framework for developing dynamic web applications.
 - **Material UI:** A UI component library that offers pre-built, customizable components following the Material Design guidelines, enhancing the visual appeal and user experience.
 - **Cloud Firestore:** A NoSQL document database provided by Firebase, used for storing and managing data related to train schedules, delays, cancellations, and reservations.
@@ -25,31 +23,36 @@ The Railway Management System utilizes the following technologies:
 
 ## Getting Started
 
-To run the Railway Management System locally on your machine, follow these steps:
+1. Clone the repository:
+    ```
+    git clone https://github.com/lahiru1115/Railway-Management-System.git
+    ```
 
-1. **Prerequisites:** Ensure you have Node.js installed on your machine. If not, you can download it from the official Node.js website and follow the installation guide.
+2. Navigate to the directory:
+    ```
+    cd Railway-Management-System
+    ```
 
-2. **Clone the Repository:** Use the following command to clone the repository to your local machine:
-```
-git clone https://github.com/lahiru1115/Railway-Management-System.git
-```
+3. Install dependencies:
+    ```
+    npm install
+    ```
 
-3. **Navigate to the Directory:** Enter the app directory:
-```
-cd Railway-Management-System
-```
+4. Create a `.env` file in the root directory and add your Firebase configuration:
+    ```
+    REACT_APP_FIREBASE_KEY=
+    REACT_APP_FIREBASE_DOMAIN=
+    REACT_APP_FIREBASE_PROJECT_ID=
+    REACT_APP_FIREBASE_STORAGE_BUCKET=
+    REACT_APP_FIREBASE_SENDER_ID=
+    REACT_APP_MESSAGING_APP_ID=
+    REACT_APP_MEASUREMENT_ID=
+    ```
 
-4. **Install Dependencies:** Run the following command to install the required dependencies:
-```
-npm install
-```
-
-5. **Configure Firebase:** Follow the Firebase setup guide to create a Firebase project and add the necessary configuration files to the app.
-
-6. **Start the Application:** Use the following command to start the application:
-```
-npm start
-```
+5. Start the application:
+    ```
+    npm start
+    ```
 
 ## Screenshots
 

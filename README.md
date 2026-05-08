@@ -20,7 +20,8 @@ The Railway Management System utilizes the following technologies:
 
 - **React:** A popular JavaScript library for building user interfaces, providing a robust and efficient framework for developing dynamic web applications.
 - **Material UI:** A UI component library that offers pre-built, customizable components following the Material Design guidelines, enhancing the visual appeal and user experience.
-- **Firebase:** A mobile and web application development platform that provides backend services and tools, including authentication and real-time database functionality.
+- **Cloud Firestore:** A NoSQL document database provided by Firebase, used for storing and managing data related to train schedules, delays, cancellations, and reservations.
+- **Firebase Authentication:** A service provided by Firebase that allows for secure user authentication and management, ensuring that only authorized administrators can access the system.
 
 ## Getting Started
 
